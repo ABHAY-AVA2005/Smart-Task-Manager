@@ -17,6 +17,11 @@ This application provides users with a complete solution for creating, managing,
 - **Database**: MongoDB (via Mongoose).
 - **Security**: Passwords hashed using `bcryptjs`. API routes protected using JSON Web Tokens.
 
+APP IMAGES:
+<img width="1904" height="805" alt="image" src="https://github.com/user-attachments/assets/78f0b9f9-206e-4158-a478-b197d8b4837c" />
+<img width="1880" height="813" alt="image" src="https://github.com/user-attachments/assets/afda3533-3b10-4e39-b342-7d25e6a4d113" />
+
+
 ## Local Setup Instructions
 
 ### 1. Clone the repository
