@@ -1,0 +1,110 @@
+Here is the complete content of the document provided in the images:
+
+## Full Stack Assignment
+
+* **Objective**: Build a **Task Management System (Mini Project)** with basic collaboration and analytics.
+
+---
+
+## Problem Statement
+
+* You are required to build a **Task Tracker Web App** where users can:
+* Create and manage tasks
+* Track progress
+* Gain simple insights from their tasks
+
+
+
+---
+
+## Core Requirements
+
+### 1. Authentication
+
+* User Signup & Login
+* JWT-based authentication
+* Basic validation (email, password)
+
+### 2. Task Management
+
+* Each user should be able to:
+* Create a task
+* View all their tasks
+* Update a task
+* Delete a task
+* Mark task as completed
+
+
+
+### Task Fields:
+
+* Title
+* Description
+* Status (Todo / In Progress / Done)
+* Priority (Low / Medium / High)
+* Due Date
+
+### 3. Filtering & Search
+
+* Filter tasks by status
+* Filter by priority
+* Search by title
+
+### 4. Analytics (NEW - Important)
+
+* Users should be able to see basic insights:
+* Total number of tasks
+* Number of completed tasks
+* Number of pending tasks
+* (Optional) Completion percentage
+
+
+* 👈 This can be shown as:
+* Simple stats cards OR
+* Basic charts
+
+
+
+### 5. UI Requirements
+
+* Clean and simple UI
+* Task list view
+* Form to create/update task
+* Analytics section/dashboard
+* Loading & error states
+
+### 6. Product Enhancements
+
+* Pagination on task list
+* Sorting (due date / priority)
+* Responsive design
+* Dark mode
+
+### 7. Technical Depth
+
+* Proper error handling & global error
+* Role-based access (if extended)
+* Optimized queries / indexing in Mo
+
+---
+
+## ⚙️ Constraints
+
+* Frontend: Angular / React
+* Backend: Node.js + Express
+* Database: MongoDB
+
+---
+
+## 📦 Submission Requirements
+
+* Upload/push your GitHub repo (frontend + backend)
+* README should include:
+* Setup steps
+* API endpoints
+* Design decisions
+
+
+* Live link (if deployed)
+* Fill the following google form:
+* [https://docs.google.com/forms/d/e/1FAIpQLSdc5wHM4EaV6bAqjnLqGBMT1-BxibEcuYyjqM8UkDdUDK4Hkw/viewform](https://docs.google.com/forms/d/e/1FAIpQLSdc5wHM4EaV6bAqjnLqGBMT1-BxibEcuYyjqM8UkDdUDK4Hkw/viewform)
